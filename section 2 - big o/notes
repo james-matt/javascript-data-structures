@@ -1,0 +1,15 @@
+Video 4 - Intro to big O
+---------
+
+Big O - A way of comparing code performance.
+
+Performance matters at scale.
+
+That's why we need a vocabulary to discuss code performance.
+
+Video 5 - Timing Our Code
+--------
+
+In this lecture we are going to track the time of the following problem.
+
+Suppose we want to write a function that calculates the sum of all numbers from 1 up to and including sum number n.
